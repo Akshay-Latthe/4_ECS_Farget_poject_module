@@ -1,4 +1,4 @@
-# WordPress ECS Project with Modules
+# Applicetion deployment with AWS ECS Frget with Terraform Modules
 
 This project is designed to deploy WordPress on Amazon Elastic Container Service (ECS) using modular components for easy deployment and maintenance.
 
